@@ -1,0 +1,24 @@
+{
+  "name": "sveltekit-histore-generator",
+  "version": "0.0.1",
+  "description": "creates histoire stories from typescript svelte files",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasbe/Svelte-Histoire-Generator.git"
+  },
+  "keywords": [
+    "svelte",
+    "histoire",
+    "story"
+  ],
+  "author": "lberger",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lukasbe/Svelte-Histoire-Generator/issues"
+  },
+  "homepage": "https://github.com/lukasbe/Svelte-Histoire-Generator#readme"
+}
